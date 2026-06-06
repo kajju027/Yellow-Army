@@ -1,6 +1,6 @@
 'use strict';
 
-var WHATSAPP_LINK = "https://whatsapp.com/channel/0029VaeylYYBPzjVNomWuZ0T";
+var WHATSAPP_LINK = "https://chat.whatsapp.com/BTqwW3DnYY8Ac24ac7RmaH?s=cl&p=a&ilr=0";
 var VIEW_API_BASE = "https://sayan-prime.pages.dev/api";
 var DATA_SOURCES  = [
   "https://sayan-json-4.pages.dev/loura.json",
@@ -372,7 +372,7 @@ var LEGAL = {
           '<span class="ct-icon ic-amber">'+I.mail+'</span>'+
           '<span><span style="display:block;font-weight:700;color:#e0e0ec;">Email</span><span class="ct-sub">cricketnewspoint.cnp@gmail.com</span></span>'+
         '</a>'+
-        '<a href="https://cnptv.pages.dev/Feedback" class="ct-item">'+
+        '<a href="https://sayan-mete.pages.dev/contact" class="ct-item">'+
           '<span class="ct-icon ic-purple">'+I.msg+'</span>'+
           '<span><span style="display:block;font-weight:700;color:#e0e0ec;">Private Message</span><span class="ct-sub">Send via our feedback form</span></span>'+
         '</a>'+
